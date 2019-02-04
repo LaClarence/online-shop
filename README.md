@@ -1,3 +1,4 @@
 ## Online Shop
 
-Check deployment on Heroku
+- Account creation
+- Check deployment on Heroku
